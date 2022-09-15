@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Lesson_4.sol": "Merkle"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Lesson_4.sol": {
+			"keccak256": "0xa889360c4fb56826affcc8f7f2768ade7ba276887e54550f4fd6955a54e4f818",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9975298d9f0a687c3798f3d3e67b65f5dd2bfeab16104dbdfeb310c7d95daa35",
+				"dweb:/ipfs/Qmcp9MKuVPJAiHkKH6GbpCMBZLJjuXxdMdo8Jw4fs6FVQJ"
+			]
+		}
+	},
+	"version": 1
+}
